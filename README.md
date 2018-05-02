@@ -1,5 +1,6 @@
 # missionaryandcannibalsGui
 Animation of missionary and cannibals Gui 
+implement with frame,canvas,threading mechanism 
 
 Screenshots
 ![screenshot 33](https://user-images.githubusercontent.com/35558616/39537297-d68c9a44-4e58-11e8-8901-ec2fd3b7d5c3.png)
